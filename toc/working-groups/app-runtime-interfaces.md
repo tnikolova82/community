@@ -149,9 +149,9 @@ areas:
     github: robdimsdale
   - name: Simon Jones
     github: simonjjones
-  reviewers:
   - name: Teodora Nikolova
     github: tnikolova82
+  reviewers:
   - name: Tsvetelina Marinova
     github: ivanovac
   repositories:
@@ -182,9 +182,9 @@ areas:
     github: robdimsdale
   - name: Simon Jones
     github: simonjjones
-  reviewers:
   - name: Teodora Nikolova
     github: tnikolova82
+  reviewers:
   - name: Tsvetelina Marinova
     github: ivanovac
   repositories:
